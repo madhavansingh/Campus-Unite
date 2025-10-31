@@ -1,5 +1,5 @@
-# 🌙 Team Moon Hashiras — Beta-14  
-## 🎓 Campus Unite – AI-Powered Campus Event Discovery & Management App
+# Team Moon Hashiras — Beta-14  
+## Campus Unite : AI-Powered Campus Event Discovery & Management App
 
 ---
 
