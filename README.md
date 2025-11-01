@@ -62,7 +62,7 @@ Crafted with **React Native (Expo)** for the frontend and **Firebase** for the b
 - Minimal, modern, and mobile-first interface.  
 - Smooth navigation across Student, Organizer, and Authority dashboards.  
 - Real-time updates and animations for a responsive experience.  
-- Designed with accessibility and intuitive interaction in mind.  
+- Designed with accessibility and intuitive interaction in the mind.  
 
 ---
 
