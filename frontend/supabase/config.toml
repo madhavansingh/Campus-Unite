@@ -1,0 +1,12 @@
+project_id = "jlysmoepqsemnejdfnvy"
+
+[auth]
+site_url = "http://localhost:3000"
+additional_redirect_urls = ["https://localhost:3000"]
+jwt_expiry = 3600
+
+[functions.ai-recommendations]
+verify_jwt = true
+
+[functions.semantic-search]
+verify_jwt = true
