@@ -1,0 +1,1 @@
+export const OnboardingModal = () => <div className="p-6 text-center text-muted-foreground"><h2 className="text-xl font-semibold">Onboarding Modal Placeholder</h2><p>Add your onboarding flow here later.</p></div>;
