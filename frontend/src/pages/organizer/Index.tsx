@@ -648,7 +648,7 @@ const Index = ({ onLogout }: { onLogout?: () => void }) => {
                       whileHover={{ scale: 1.02 }}
                       whileTap={{ scale: 0.98 }}
                       onClick={handleCreateEvent}
-                      className="w-full px-6 py-4 bg-gradient-to-r from-[hsl(var(--gradient-teal))] to-[hsl(var(--gradient-purple))] text-white rounded-xl font-bold text-lg shadow-xl hover:shadow-2xl transition-all"
+                      className="w-full px-6 py-4 bg-black text-white rounded-xl font-bold text-lg shadow-xl hover:shadow-2xl transition-all"
                     >
                       Create Event
                     </motion.button>
