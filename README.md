@@ -13,6 +13,7 @@ Campus Unite is a unified digital ecosystem for educational institutions.
 It eliminates communication barriers between students, event organizers, and administrative authorities by offering a centralized platform where everyone stays informed and connected.
 
 The goal is simple — make campus interaction **faster, smarter, and transparent** through technology.
+
 <img width="1470" height="802" alt="Screenshot 2025-11-02 at 1 39 26 PM" src="https://github.com/user-attachments/assets/2302e59f-2c8d-4e33-9d7b-8201cbbe1734" />
 
 
@@ -126,7 +127,7 @@ In most campuses, communication between students and administration remains outd
 ## 📜 License
 
 This project was developed as part of an academic and hackathon initiative.  
-All rights reserved © **Team Campus Unite: BETA-14**
+All rights reserved © **Campus Unite**
 
 ---
 
