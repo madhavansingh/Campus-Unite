@@ -13,6 +13,8 @@ Campus Unite is a unified digital ecosystem for educational institutions.
 It eliminates communication barriers between students, event organizers, and administrative authorities by offering a centralized platform where everyone stays informed and connected.
 
 The goal is simple — make campus interaction **faster, smarter, and transparent** through technology.
+<img width="1470" height="802" alt="Screenshot 2025-11-02 at 1 39 26 PM" src="https://github.com/user-attachments/assets/2302e59f-2c8d-4e33-9d7b-8201cbbe1734" />
+
 
 ---
 
@@ -30,18 +32,31 @@ In most campuses, communication between students and administration remains outd
 ## 💡 Core Features
 
 ### 👨‍🎓 Student Dashboard
+<img width="1470" height="835" alt="Screenshot 2025-11-02 at 1 42 55 PM" src="https://github.com/user-attachments/assets/5f06e15f-d9f5-41be-a3a4-1d080c3a0f42" />
+<img width="1470" height="831" alt="Screenshot 2025-11-02 at 1 43 21 PM" src="https://github.com/user-attachments/assets/ad735bc4-23ca-44ac-8041-c823c2856e71" />
+
+
+
 - Explore upcoming campus events and workshops.  
 - Submit complaints or issues to the respective department.  
 - Track status updates and resolutions in real-time.  
 - Receive notifications about events and important announcements.
 
 ### 🧑‍💼 Organizer Dashboard
+<img width="1470" height="834" alt="Screenshot 2025-11-02 at 1 43 58 PM" src="https://github.com/user-attachments/assets/c48b1021-42ad-4e3b-bea1-8228d6ea0cfd" />
+<img width="1470" height="831" alt="Screenshot 2025-11-02 at 1 44 06 PM" src="https://github.com/user-attachments/assets/40331ebc-a647-4f57-a28a-cecb92e14589" />
+
+
 - Create, update, and manage events with details like date, venue, and description.  
 - Share event announcements directly to students.  
 - Review student interest and participation.  
 - Manage communication for ongoing campus programs.
 
 ### 🏢 Authority Dashboard
+<img width="1470" height="833" alt="Screenshot 2025-11-02 at 1 44 41 PM" src="https://github.com/user-attachments/assets/bed380ff-35c1-4603-b0a7-8b12cbc1b2ab" />
+<img width="1470" height="832" alt="Screenshot 2025-11-02 at 1 44 51 PM" src="https://github.com/user-attachments/assets/63445b83-6dc8-491a-b016-3835723f0760" />
+
+
 - Access and resolve student complaints efficiently.  
 - View categorized issues and track campus-wide reports.  
 - Approve or monitor events organized by student groups.  
@@ -65,7 +80,7 @@ In most campuses, communication between students and administration remains outd
 **Authentication:** JWT (JSON Web Token)  
 **AI Integration:** OpenAI / Gemini APIs  
 **Design & Collaboration:** Figma, GitHub  
-**Deployment:** Vercel (Frontend)
+**Deployment:** Vercel (Frontend), Render (Backend)
 
 ---
 
